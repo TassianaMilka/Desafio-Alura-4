@@ -18,4 +18,6 @@ https://github.com/TassianaMilka/Course/tree/main/Alura/Java%20e%20Spring%20Fram
 # Trello
 
 
-## 
+##  Praticando Spring Boot: Challenge LiterAlura
+
+https://trello.com/b/l4bBIYqy/literalura-challenge-java
